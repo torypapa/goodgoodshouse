@@ -1,1 +1,1 @@
-index
+This is good goods site
